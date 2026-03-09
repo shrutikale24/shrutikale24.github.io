@@ -1,5 +1,4 @@
-## 
-https://github.com/shrutikale24/shrutikale24.github.io/tree/main
+##Shrutikale24.github.io
 <!--
 **shrutikale24/shrutikale24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
