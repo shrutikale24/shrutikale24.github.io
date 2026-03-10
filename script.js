@@ -19,4 +19,4 @@ return false;
 alert("Thank you! Your enquiry has been submitted.");
 return true;
 
-}
+)
